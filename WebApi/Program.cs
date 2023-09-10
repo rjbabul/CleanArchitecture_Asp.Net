@@ -15,6 +15,7 @@ builder.Services
     .AddApplication()
     .AddPresentation()
     .AddInfrastracture();
+ 
 
 builder.Host.UseSerilog((context, configuration) => 
     configuration.ReadFrom.Configuration(context.Configuration));
