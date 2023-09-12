@@ -1,10 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "1UZ9FaP69NF8qLBEsxr9bqh2oGcEKjbL0DXevqz+Wydhd7QiwkoRcM4ojaIhoxwmtwB6KGzq1Q8FIxZiZQDHTQ==",
+  "dgSpecHash": "4CqocGc3KdoEQmO1qVwBlLOW7K9ppa6BRfbxPO4vCkA5kAQecCqSkjbqn4jHD5Oox38aoLrtDCsbPMch077G7Q==",
   "success": true,
   "projectFilePath": "P:\\Api\\CleanArchitecture\\Infastracture\\Infrastracture.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\babul\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\7.0.0\\microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512"
-  ],
+  "expectedPackageFiles": [],
   "logs": []
 }

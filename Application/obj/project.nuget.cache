@@ -1,14 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "knJ99KweyCQlnyXr6R2GuS1uzsJfXEzKjF5JA1HLY97LtUSlk6u7C6pzIPoiWxWqKGv4ZB0nOnmNr0Ol5+dv1A==",
+  "dgSpecHash": "OZiJG0ZTQiGCC3106kxsNmnT41kTqJkDpAs/JRt/Mb+nQ8xoIR6BThV0qAv1FxGhZrj7j6q/83WhS5btzHHSuA==",
   "success": true,
   "projectFilePath": "P:\\Api\\CleanArchitecture\\Application\\Application.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\babul\\.nuget\\packages\\fluentvalidation\\11.7.1\\fluentvalidation.11.7.1.nupkg.sha512",
-    "C:\\Users\\babul\\.nuget\\packages\\fluentvalidation.dependencyinjectionextensions\\11.7.1\\fluentvalidation.dependencyinjectionextensions.11.7.1.nupkg.sha512",
-    "C:\\Users\\babul\\.nuget\\packages\\mediatr\\12.1.1\\mediatr.12.1.1.nupkg.sha512",
-    "C:\\Users\\babul\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512",
-    "C:\\Users\\babul\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512"
-  ],
+  "expectedPackageFiles": [],
   "logs": []
 }
