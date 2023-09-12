@@ -1,10 +1,7 @@
-﻿using FluentValidation;
+﻿using Application.Abstraction;
+using FluentValidation;
+
 using Microsoft.Extensions.DependencyInjection;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace Application
 {
@@ -13,7 +10,7 @@ namespace Application
         public static IServiceCollection AddApplication(this IServiceCollection services)
         {
            var assembly= typeof(DependencyInjection).Assembly;
-
+            services.AddScoped<IApiService,  ApiService>();
             services.AddMediatR(configuration => configuration.RegisterServicesFromAssembly(assembly));
             services.AddValidatorsFromAssembly(assembly);
 

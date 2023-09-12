@@ -28,8 +28,8 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "P:\\Api\\CleanArchitecture\\CleanArchitecture.Domain\\Domain.csproj": {
-                "projectPath": "P:\\Api\\CleanArchitecture\\CleanArchitecture.Domain\\Domain.csproj"
+              "P:\\Api\\CleanArchitecture\\Domain\\Domain.csproj": {
+                "projectPath": "P:\\Api\\CleanArchitecture\\Domain\\Domain.csproj"
               }
             }
           }
@@ -77,14 +77,14 @@
         }
       }
     },
-    "P:\\Api\\CleanArchitecture\\CleanArchitecture.Domain\\Domain.csproj": {
+    "P:\\Api\\CleanArchitecture\\Domain\\Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "P:\\Api\\CleanArchitecture\\CleanArchitecture.Domain\\Domain.csproj",
+        "projectUniqueName": "P:\\Api\\CleanArchitecture\\Domain\\Domain.csproj",
         "projectName": "Domain",
-        "projectPath": "P:\\Api\\CleanArchitecture\\CleanArchitecture.Domain\\Domain.csproj",
+        "projectPath": "P:\\Api\\CleanArchitecture\\Domain\\Domain.csproj",
         "packagesPath": "C:\\Users\\babul\\.nuget\\packages\\",
-        "outputPath": "P:\\Api\\CleanArchitecture\\CleanArchitecture.Domain\\obj\\",
+        "outputPath": "P:\\Api\\CleanArchitecture\\Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\babul\\AppData\\Roaming\\NuGet\\NuGet.Config",

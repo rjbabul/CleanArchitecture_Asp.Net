@@ -188,8 +188,8 @@
     },
     "Domain/1.0.0": {
       "type": "project",
-      "path": "../CleanArchitecture.Domain/Domain.csproj",
-      "msbuildProject": "../CleanArchitecture.Domain/Domain.csproj"
+      "path": "../Domain/Domain.csproj",
+      "msbuildProject": "../Domain/Domain.csproj"
     }
   },
   "projectFileDependencyGroups": {
@@ -227,8 +227,8 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "P:\\Api\\CleanArchitecture\\CleanArchitecture.Domain\\Domain.csproj": {
-              "projectPath": "P:\\Api\\CleanArchitecture\\CleanArchitecture.Domain\\Domain.csproj"
+            "P:\\Api\\CleanArchitecture\\Domain\\Domain.csproj": {
+              "projectPath": "P:\\Api\\CleanArchitecture\\Domain\\Domain.csproj"
             }
           }
         }
